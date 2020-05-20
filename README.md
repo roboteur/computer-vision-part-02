@@ -3,8 +3,9 @@
 
 ## SETUP
 1. I specifically made this code for Kaggle Kernel (notebook). You can try to import this to Google Colab or use Jupyter Notebook on you local. Let me know if you got problems. 
-2. For your images, make three folders namely: train, valid and test. I tested at least 100 train images and 2o for validation images. In some cases, it might not be the same and most likely you will need more train images. It's up to you to tweak the numbers and ratio. 
-3. Once you run the code, it automatically trains and produces the .h5 file which actually is the "model". 
+2. You have to gather (or produce) your own image dataset. There are lots available online as open data.  
+3. For your dataset, make three folders and categorize them as: train, valid and test. I tested at least 100 train images and 2o for validation images. In some cases, it might not be the same and most likely you will need more train images. It's up to you to tweak the numbers and ratio. 
+4. Once you run the code, it automatically trains and produces the .h5 file which actually is the "model". 
 
 ## CONTENT
 ### I. File: roboteur-eyelee-resnet50-model.ipynb
