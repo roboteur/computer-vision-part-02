@@ -8,11 +8,11 @@
 4. Once you run the code, it automatically trains and produces the .h5 file which actually is the "model". 
 
 ## CONTENT
-### I. File: roboteur-eyelee-resnet50-model.ipynb
+### I. File: roboteur-resnet50-model.ipynb
 * Transfer learning / fine tuning code for training model with custom dataset and produces .h5 file as model. 
 * If you want to learn about the concepts, just message me via instagram or facebook. 
 
-### II. File: roboteur-eyelee-resnet50-inference.ipynb
+### II. File: roboteur-resnet50-inference.ipynb
 * Codes for inferencing models and seeing the results. 
 
 
